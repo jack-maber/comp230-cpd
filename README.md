@@ -12,3 +12,10 @@ This week's challenge came from the change of version control we were utilising 
 This week's challenge once again stemmed from my 230 project team, as I am not used to collaborating with programmers outside of the BSc, I was very surprised at the differences in the way at which they communicate and undertake sprints differently to us, and so I was kind of overwhelmed by the processses and differences in their work patterns, which didn't blend with mine very well, and thus I found it hard to match their expectations. To help with this challenge, I will ask my fellow team members to outline my tasks a bit more clearly and give me a time window in which to work as I don't work well without either of those to reference, as without these I might fall behind and put the project at risk. 
 ## Week Five
 This week's challenge came in the form of the upcoming deadline for the 210 Research task, as this is the first assignment of the term, I hadn't yet gotten into the swing of things regarding time management, and thus I was left with little time to complete the task towards the end, which definetly affected the quality of my final product, and such, I don't want to this to affect me on any future assignments, so I will be readopting my scheduling methods that I used last year that proved to be effective, which will defiently be needed this year as it is much more important this year. 
+
+## Week Six
+This week was studio practice week so we had no sessions, although this brought up an issue that was more specific to my BA team dynamic, as my team have now locked into using Unity over Unreal 
+
+## Week Seven
+
+## Week Eight
