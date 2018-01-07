@@ -23,3 +23,6 @@ This weeks problem arised from the 230 presentations, even though I covered my p
 
 ## Week Eight
 This weeks problem stems from the 3 hand-ins we have this week, and although it's a better situation than last year, where there was two due on the same day, I unfortunately had to go home over the weekend, which cut a fair chunk of development time, and my lack of time management skills definitely didn't help with preperation before hand, so to help with this issue in future I will have to look ahead and build on my assignments around when they are due in, rather than work on them near when they are due as I find that my quality of work goes down when this happens. 
+
+## Week Nine 
+Archiving of Old Projects and work 
