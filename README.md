@@ -25,7 +25,10 @@ This weeks problem arised from the 230 presentations, even though I covered my p
 This weeks problem stems from the 3 hand-ins we have this week, and although it's a better situation than last year, where there was two due on the same day, I unfortunately had to go home over the weekend, which cut a fair chunk of development time, and my lack of time management skills definitely didn't help with preperation before hand, so to help with this issue in future I will have to look ahead and build on my assignments around when they are due in, rather than work on them near when they are due as I find that my quality of work goes down when this happens. 
 
 ## Week Nine 
-Archiving of Old Projects and work 
+This weeks problem appeared during development time for the 230 game, I remembered that I had created some code for a project in college that would have greatly benefitted my contribution to the project as it would fit in directly with my tasks that I had to undertake, but I was unable to find the project, which then made me realise that I hardly if ever archive any of my work after I have finished it, which could create problems in the future such as making a portfolio or showing employers past work, to help this issue, every major project I finish I will archive so that I can access them in the future.  
 
 ## Week Ten
-Consult Documentation more as solves problems quicker 
+This weeks issue 
+## Week Eleven
+
+## Week Twelve 
