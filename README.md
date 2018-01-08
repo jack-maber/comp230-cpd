@@ -26,3 +26,6 @@ This weeks problem stems from the 3 hand-ins we have this week, and although it'
 
 ## Week Nine 
 Archiving of Old Projects and work 
+
+## Week Ten
+Consult Documentation more as solves problems quicker 
