@@ -1,4 +1,4 @@
-# Weekly Reports
+# Weekly Reports 230
 
 ## Week One
 Surprisingly, the first week back at Uni has been quite full on, with the introduction of 3 new modules, there was quite a lot to take on, especially 220, which was quite heavy on both the theory and coding fronts, and being that I have been keeping up with my coding skills as much as I liked to have over the Summer, I found it quite hard to get back into the tasks given out by Brian, which could lead me to fall behind on my work as the weeks progress, so to overcome this issue, I will follow his tutorial videos that he has put up for the tasks and see if I can complete them, if not I'll make sure that I consult with him in the guild on Friday. 
@@ -35,3 +35,14 @@ This weeks issue came from the impending COMP110 deadline, with it being next we
 
 ## Week Twelve 
 With this being the last week in this study block, there are of course deadlines, however due to a family event I had to attend, I had to leave on the Tuesday, leaving me with less time to polish off my assignments for the hand in that was on Friday, and although I knew that I had to leave early, I still carried on with development at normal pace and forgot to factor in the amount of time that it would take to get the projects ready for when I left, which definitely impacted on the quality of my projects in regards to polish, so to counter act this I will still have to work on my time management skills to make sure that I can get projects done on time, especially if circumstances like the one mentioned arise.
+
+# Weekly Reports 240
+
+## Week One
+On my return from Christmas, I was met with the problem of having the deadline for the 220 Graphics assignment, after I was left with no internet at home during the Holidays, I was really struggling with getting the assignment done to the standard that I wanted and had to return early to the University to get the work in as otherwise I would have failed the assignment. To prevent this from happening in the future, I will make sure to get any work I need to get done before returning home if I have a problem with the internet again as otherwise I might fall behind on my work, as this will definitely reflect in my final grade.
+
+## Week Two
+This weeks problem came with the push for work on the team game, with the lack of people who have returned from Holidays, progress and team drive is very low and thus I feel like there is little use for me at the Studio at this time as I need to be given tasks that I need to program as the BAs are very protective of the code as it would seem, so I feel it nessecary to ask them before I undertake any tasks on the game. The downside of this is that development on the game has been slow, this could detract from the quality of the overall final product and put the sprint at risk. To counter act this I will better use of Slack and such as to get the tasks that I need to get done to pull my fair share of the work on the project. 
+
+## Week Three
+This weeks issue arose with the 260 MUD assignment, I have not undertaken much networking programming before, 
