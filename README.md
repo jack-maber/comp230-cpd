@@ -49,3 +49,6 @@ This weeks issue arose with the 260 MUD assignment, I have not undertaken much n
 
 ## Week Four
 This weeks challenge came stems from the 240 Group Game, I have found commiting to the repository very hard as I am still finding it hard to get the BA's to communicate tasks clearly with me about the tasks I undertake and I constantly find myself working on tasks and then finding that the BA's don't want me to commit my work as it will interfer with the work they have carried out during the same timeframe, as this will affect my final grade, I will have to get the BAs to stop working on the code I want to work on so I can make a fair contribution to the project. 
+
+## Week Five
+This week's challenge stemed from the 240 buisness presentation, as discussed in most of my other CPD reports from the past, my presentation skills have always been lacking as I find it hard speaking in front of people about subjects that I am not familiar with, and as it's a buisness presentation, I have very little prior experience with the content that we were presenting so I was not very confident with presenting and thus I felt that my grade suffered because of my lack of confidence. To overcome this issue in the future, I will do more research and preperation before undertaking another.
